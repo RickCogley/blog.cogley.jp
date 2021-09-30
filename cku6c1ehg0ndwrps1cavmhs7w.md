@@ -1,6 +1,6 @@
 ## Backup your @postmarkapp Templates
 
-The other day I [wrote about](https://blog.cogley.jp/email-services-for-your-apps) [Postmark](https://postmarkapp.com/). We wanted to have a way to backup our Postmark templates automatically, so we coded this Github Actions workflow. 
+The other day I [wrote about](https://blog.cogley.jp/email-services-for-your-apps) using Postmark for sending out HTML emails. We wanted to have a way to backup our [Postmark](https://postmarkapp.com/) email templates automatically, so we coded this Github Actions workflow. 
 
 There is about 10 minutes of setup for you to do, and it works well enough to backup your Postmark templates and server information. 
 
